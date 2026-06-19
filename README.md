@@ -72,5 +72,4 @@ jupyter notebook notebooks/ecommerce_analysis.ipynb
 
 - 数据科学与大数据技术专业
 - 熟练 Python / SQL / Pandas / Scikit-learn
-- wechat X524308
-- QQ 2143492748
+- 邮箱 2143492748@qq.com
