@@ -4,3 +4,4 @@
 from .data_loader import *
 from .analysis import *
 from .visualize import *
+from .predict_model import *
