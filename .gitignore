@@ -11,5 +11,6 @@ __pycache__/
 # Jupyter 输出
 *.ipynb_checkpoints
 
-# 其他
+# 学习资料
+学习指南.md
 .DS_Store
