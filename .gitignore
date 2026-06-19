@@ -1,0 +1,15 @@
+# 数据文件太大，不上传（GitHub 限制 100MB）
+data/*.csv
+data/*.zip
+data/*.gz
+
+# Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter 输出
+*.ipynb_checkpoints
+
+# 其他
+.DS_Store
